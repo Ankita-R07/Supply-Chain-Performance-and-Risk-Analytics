@@ -1,0 +1,10 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code temporary files
+.vscode/
+
+# Large data files (optional, keeps your repository lightweight)
+data/raw/
