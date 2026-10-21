@@ -105,17 +105,25 @@ The following baseline results were obtained with the report's default filters.
 
 Provides a high-level summary of order volume, delivery outcomes, sales, delayed sales exposure, monthly order-item volume, shipping-mode exposure, and regional risk.
 
+<img width="3075" height="1763" alt="Page 1 Executive Overview" src="https://github.com/user-attachments/assets/6ae3dc33-6230-4fa7-ab1a-60c4006a7662" />
+
 ### Page 2 — Delivery Performance & Reliability
 
 Examines delivery status, slower-than-scheduled shipments, shipping duration variance, monthly reliability trends, and delivery outcomes across shipping modes and customer segments.
+
+<img width="3075" height="1763" alt="Page 2 Delivery Performance   Reliability" src="https://github.com/user-attachments/assets/20598695-92c0-48d2-897d-0f32be557bc9" />
 
 ### Page 3 — Geography & Shipping Analytics
 
 Compares regional reliability, delayed sales exposure, shipment volume versus reliability, and market-level performance.
 
+<img width="3075" height="1763" alt="Page 3 Geography   Shipping Analytics" src="https://github.com/user-attachments/assets/6c5452cf-3f23-4869-8e02-a992fcc5b50b" />
+
 ### Page 4 — Financial Exposure & Profitability
 
 Analyses delayed sales exposure by product category, profit associated with delayed shipments, sales versus profit, category-level financial performance, and order volume versus financial exposure.
+
+<img width="3075" height="1763" alt="Page 4 Financial Exposure   Profitability" src="https://github.com/user-attachments/assets/1850fbd6-252d-4300-ab8b-dbfdd84fe1f8" />
 
 ## Business Value
 
